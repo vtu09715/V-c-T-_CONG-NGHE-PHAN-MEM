@@ -1,6 +1,5 @@
+# Link video thuyết trình
 # https://youtu.be/Klzq_gs_RDc?si=TrBN89ggfo_8VALi
-
-
 # CONG_NGHE_PHAN_MEM
 # Đăng ký đăng nhập </p>
 <img width="1323" height="869" alt="image" src="https://github.com/user-attachments/assets/d8e09286-0b18-4507-a1e3-59581d239a46" /> </p>
